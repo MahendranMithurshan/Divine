@@ -6,7 +6,17 @@ Welcome to Divine Cake Shop, where sweetness meets perfection! 🍰
 
 Divine Cake Shop is a delightful haven for cake enthusiasts, offering a wide range of delectable cakes and desserts. Our passion is to create exquisite cakes that not only taste heavenly but also look absolutely divine.
 
+
+## Prerequisites
+<ul>
+<li>NPM</li>
+<li>Node.js</li>
+<li>MySQL</li>
+<li>PHP 8</li>
+<li>Composer</li>
+</ul>
 ## Features
+
 
 - **Delicious Selection:** Explore our diverse menu of cakes, cupcakes, pastries, and more, all made with love and the finest ingredients.
 
@@ -25,13 +35,7 @@ Feel free to reach out to us for any inquiries, orders, or collaborations. We lo
 For more information, visit our GitHub repository: [gh repo clone MahendranMithurshan/Divine](https://github.com/MahendranMithurshan/Divine.git)https://github.com/MahendranMithurshan/Divine.git
 
 ## Screen Shots
-SharedScreenshot 1.jpg
-SharedScreenshot 2.jpg
-SharedScreenshot 3.jpg
-SharedScreenshot 4.jpg
-SharedScreenshot 6.jpg
-SharedScreenshot 7.jpg
-SharedScreenshot.jpg
+https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%201.jpg
 
 
 
