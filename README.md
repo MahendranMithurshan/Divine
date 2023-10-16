@@ -35,7 +35,7 @@ Feel free to reach out to us for any inquiries, orders, or collaborations. We lo
 For more information, visit our GitHub repository: [gh repo clone MahendranMithurshan/Divine](https://github.com/MahendranMithurshan/Divine.git)https://github.com/MahendranMithurshan/Divine.git
 
 ## Screen Shots
-https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%201.jpg
+(https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%201.jpg)
 
 
 
