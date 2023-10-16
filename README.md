@@ -48,38 +48,15 @@ For more information, visit our GitHub repository: [gh repo clone MahendranMithu
 
 
 ## Project Information
-    <table>
-        <tr>
-            <td>Frameworks:</td>
-            <td>Laravel</td>
-        </tr>
-        <tr>
-            <td>JavaScript Framework:</td>
-            <td>Alpine.js</td>
-        </tr>
-        <tr>
-            <td>CSS Framework:</td>
-            <td>Tailwind CSS</td>
-        </tr>
-        <tr>
-            <td>Application Scaffolding:</td>
-            <td>Laravel Jetstream</td>
-        </tr>
-        <tr>
-            <td>Libraries:</td>
-            <td>Livewire, Chart.js</td>
-        </tr>
-        <tr>
-            <td>Languages:</td>
-            <td>PHP, JavaScript</td>
-        </tr>
-        <tr>
-            <td>Database:</td>
-            <td>MySQL</td>
-        </tr>
-        <tr>
-            <td>Testing Email Functionality:</td>
-            <td>MailTrap</td>
-        </tr>
+<ul>
+        <li><strong>Languages:</strong> PHP, JavaScript</li>
+        <li><strong>Application Scaffolding:</strong> Laravel Jetstream</li>
+        <li><strong>Database:</strong> MySQL</li>
+        <li><strong>Testing Email Functionality:</strong> MailTrap</li>
+        <li><strong>CSS Framework:</strong> Tailwind CSS</li>
+        <li><strong>Libraries:</strong> Livewire, Chart.js</li>
+        <li><strong>JavaScript Framework:</strong> Alpine.js</li>
+        <li><strong>Frameworks:</strong> Laravel</li>
+    </ul>    
 
 
