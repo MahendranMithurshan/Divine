@@ -36,7 +36,12 @@ For more information, visit our GitHub repository: [gh repo clone MahendranMithu
 
 ## Screen Shots
 ![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%201.jpg)
-
+![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%202.jpg)
+![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%203.jpg)
+![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%204.jpg)
+![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%206.jpg)
+![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%207.jpg)
+![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot.jpg)
 
 
 
