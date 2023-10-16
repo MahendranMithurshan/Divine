@@ -34,5 +34,5 @@ For more information, visit our GitHub repository: [gh repo clone MahendranMithu
 ![SharedScreenshot](https://github.com/MahendranMithurshan/Divine/assets/107684734/673562f2-06b2-4109-b049-4aff372349fe)
 
 
-![Alt text](<SharedScreenshot 4.jpg>) ![Alt text](<SharedScreenshot 6.jpg>) ![Alt text](<SharedScreenshot 7.jpg>) ![Alt text](SharedScreenshot.jpg) ![Alt text](<SharedScreenshot 1.jpg>) ![Alt text](<SharedScreenshot 2.jpg>) ![Alt text](<SharedScreenshot 3.jpg>)
+
 
