@@ -6,15 +6,6 @@ Welcome to Divine Cake Shop, where sweetness meets perfection! 🍰
 
 Divine Cake Shop is a delightful haven for cake enthusiasts, offering a wide range of delectable cakes and desserts. Our passion is to create exquisite cakes that not only taste heavenly but also look absolutely divine.
 
-
-## Prerequisites
-<ul>
-<li>NPM</li>
-<li>Node.js</li>
-<li>MySQL</li>
-<li>PHP 8</li>
-<li>Composer</li>
-</ul>
 ## Features
 
 
@@ -43,5 +34,52 @@ For more information, visit our GitHub repository: [gh repo clone MahendranMithu
 ![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot%207.jpg)
 ![img1](https://github.com/MahendranMithurshan/Divine/blob/main/SharedScreenshot.jpg)
 
+
+
+## Prerequisites
+<ul>
+<li>NPM</li>
+<li>Node.js</li>
+<li>MySQL</li>
+<li>PHP 8</li>
+<li>Composer</li>
+</ul>
+
+
+
+## Project Information
+    <table>
+        <tr>
+            <td>Frameworks:</td>
+            <td>Laravel</td>
+        </tr>
+        <tr>
+            <td>JavaScript Framework:</td>
+            <td>Alpine.js</td>
+        </tr>
+        <tr>
+            <td>CSS Framework:</td>
+            <td>Tailwind CSS</td>
+        </tr>
+        <tr>
+            <td>Application Scaffolding:</td>
+            <td>Laravel Jetstream</td>
+        </tr>
+        <tr>
+            <td>Libraries:</td>
+            <td>Livewire, Chart.js</td>
+        </tr>
+        <tr>
+            <td>Languages:</td>
+            <td>PHP, JavaScript</td>
+        </tr>
+        <tr>
+            <td>Database:</td>
+            <td>MySQL</td>
+        </tr>
+        <tr>
+            <td>Testing Email Functionality:</td>
+            <td>MailTrap</td>
+        </tr>
 
 
